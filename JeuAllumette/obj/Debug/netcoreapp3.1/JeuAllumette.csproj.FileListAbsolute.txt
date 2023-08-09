@@ -1,0 +1,55 @@
+C:\Users\tanc\source\repos\JeuAllumette\JeuAllumette\bin\Debug\netcoreapp3.1\JeuAllumette.exe
+C:\Users\tanc\source\repos\JeuAllumette\JeuAllumette\bin\Debug\netcoreapp3.1\JeuAllumette.deps.json
+C:\Users\tanc\source\repos\JeuAllumette\JeuAllumette\bin\Debug\netcoreapp3.1\JeuAllumette.runtimeconfig.json
+C:\Users\tanc\source\repos\JeuAllumette\JeuAllumette\bin\Debug\netcoreapp3.1\JeuAllumette.runtimeconfig.dev.json
+C:\Users\tanc\source\repos\JeuAllumette\JeuAllumette\bin\Debug\netcoreapp3.1\JeuAllumette.dll
+C:\Users\tanc\source\repos\JeuAllumette\JeuAllumette\bin\Debug\netcoreapp3.1\JeuAllumette.pdb
+C:\Users\tanc\source\repos\JeuAllumette\JeuAllumette\obj\Debug\netcoreapp3.1\JeuAllumette.csproj.AssemblyReference.cache
+C:\Users\tanc\source\repos\JeuAllumette\JeuAllumette\obj\Debug\netcoreapp3.1\JeuAllumette.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanc\source\repos\JeuAllumette\JeuAllumette\obj\Debug\netcoreapp3.1\JeuAllumette.AssemblyInfoInputs.cache
+C:\Users\tanc\source\repos\JeuAllumette\JeuAllumette\obj\Debug\netcoreapp3.1\JeuAllumette.AssemblyInfo.cs
+C:\Users\tanc\source\repos\JeuAllumette\JeuAllumette\obj\Debug\netcoreapp3.1\JeuAllumette.csproj.CoreCompileInputs.cache
+C:\Users\tanc\source\repos\JeuAllumette\JeuAllumette\obj\Debug\netcoreapp3.1\JeuAllumette.dll
+C:\Users\tanc\source\repos\JeuAllumette\JeuAllumette\obj\Debug\netcoreapp3.1\JeuAllumette.pdb
+C:\Users\tanc\source\repos\JeuAllumette\JeuAllumette\obj\Debug\netcoreapp3.1\JeuAllumette.genruntimeconfig.cache
+C:\Users\debaz\Desktop\POO C#\Tancrède.de.Bazelaire.JeuAllumette\JeuAllumette\JeuAllumette\bin\Debug\netcoreapp3.1\JeuAllumette.exe
+C:\Users\debaz\Desktop\POO C#\Tancrède.de.Bazelaire.JeuAllumette\JeuAllumette\JeuAllumette\bin\Debug\netcoreapp3.1\JeuAllumette.deps.json
+C:\Users\debaz\Desktop\POO C#\Tancrède.de.Bazelaire.JeuAllumette\JeuAllumette\JeuAllumette\bin\Debug\netcoreapp3.1\JeuAllumette.runtimeconfig.json
+C:\Users\debaz\Desktop\POO C#\Tancrède.de.Bazelaire.JeuAllumette\JeuAllumette\JeuAllumette\bin\Debug\netcoreapp3.1\JeuAllumette.runtimeconfig.dev.json
+C:\Users\debaz\Desktop\POO C#\Tancrède.de.Bazelaire.JeuAllumette\JeuAllumette\JeuAllumette\bin\Debug\netcoreapp3.1\JeuAllumette.dll
+C:\Users\debaz\Desktop\POO C#\Tancrède.de.Bazelaire.JeuAllumette\JeuAllumette\JeuAllumette\bin\Debug\netcoreapp3.1\JeuAllumette.pdb
+C:\Users\debaz\Desktop\POO C#\Tancrède.de.Bazelaire.JeuAllumette\JeuAllumette\JeuAllumette\obj\Debug\netcoreapp3.1\JeuAllumette.csproj.AssemblyReference.cache
+C:\Users\debaz\Desktop\POO C#\Tancrède.de.Bazelaire.JeuAllumette\JeuAllumette\JeuAllumette\obj\Debug\netcoreapp3.1\JeuAllumette.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\debaz\Desktop\POO C#\Tancrède.de.Bazelaire.JeuAllumette\JeuAllumette\JeuAllumette\obj\Debug\netcoreapp3.1\JeuAllumette.AssemblyInfoInputs.cache
+C:\Users\debaz\Desktop\POO C#\Tancrède.de.Bazelaire.JeuAllumette\JeuAllumette\JeuAllumette\obj\Debug\netcoreapp3.1\JeuAllumette.AssemblyInfo.cs
+C:\Users\debaz\Desktop\POO C#\Tancrède.de.Bazelaire.JeuAllumette\JeuAllumette\JeuAllumette\obj\Debug\netcoreapp3.1\JeuAllumette.csproj.CoreCompileInputs.cache
+C:\Users\debaz\Desktop\POO C#\Tancrède.de.Bazelaire.JeuAllumette\JeuAllumette\JeuAllumette\obj\Debug\netcoreapp3.1\JeuAllumette.dll
+C:\Users\debaz\Desktop\POO C#\Tancrède.de.Bazelaire.JeuAllumette\JeuAllumette\JeuAllumette\obj\Debug\netcoreapp3.1\JeuAllumette.pdb
+C:\Users\debaz\Desktop\POO C#\Tancrède.de.Bazelaire.JeuAllumette\JeuAllumette\JeuAllumette\obj\Debug\netcoreapp3.1\JeuAllumette.genruntimeconfig.cache
+D:\cours\POO C#\Tancrède.de.Bazelaire.JeuAllumette\JeuAllumette\JeuAllumette\bin\Debug\netcoreapp3.1\JeuAllumette.exe
+D:\cours\POO C#\Tancrède.de.Bazelaire.JeuAllumette\JeuAllumette\JeuAllumette\bin\Debug\netcoreapp3.1\JeuAllumette.deps.json
+D:\cours\POO C#\Tancrède.de.Bazelaire.JeuAllumette\JeuAllumette\JeuAllumette\bin\Debug\netcoreapp3.1\JeuAllumette.runtimeconfig.json
+D:\cours\POO C#\Tancrède.de.Bazelaire.JeuAllumette\JeuAllumette\JeuAllumette\bin\Debug\netcoreapp3.1\JeuAllumette.runtimeconfig.dev.json
+D:\cours\POO C#\Tancrède.de.Bazelaire.JeuAllumette\JeuAllumette\JeuAllumette\bin\Debug\netcoreapp3.1\JeuAllumette.dll
+D:\cours\POO C#\Tancrède.de.Bazelaire.JeuAllumette\JeuAllumette\JeuAllumette\bin\Debug\netcoreapp3.1\JeuAllumette.pdb
+D:\cours\POO C#\Tancrède.de.Bazelaire.JeuAllumette\JeuAllumette\JeuAllumette\obj\Debug\netcoreapp3.1\JeuAllumette.csproj.AssemblyReference.cache
+D:\cours\POO C#\Tancrède.de.Bazelaire.JeuAllumette\JeuAllumette\JeuAllumette\obj\Debug\netcoreapp3.1\JeuAllumette.GeneratedMSBuildEditorConfig.editorconfig
+D:\cours\POO C#\Tancrède.de.Bazelaire.JeuAllumette\JeuAllumette\JeuAllumette\obj\Debug\netcoreapp3.1\JeuAllumette.AssemblyInfoInputs.cache
+D:\cours\POO C#\Tancrède.de.Bazelaire.JeuAllumette\JeuAllumette\JeuAllumette\obj\Debug\netcoreapp3.1\JeuAllumette.AssemblyInfo.cs
+D:\cours\POO C#\Tancrède.de.Bazelaire.JeuAllumette\JeuAllumette\JeuAllumette\obj\Debug\netcoreapp3.1\JeuAllumette.csproj.CoreCompileInputs.cache
+D:\cours\POO C#\Tancrède.de.Bazelaire.JeuAllumette\JeuAllumette\JeuAllumette\obj\Debug\netcoreapp3.1\JeuAllumette.dll
+D:\cours\POO C#\Tancrède.de.Bazelaire.JeuAllumette\JeuAllumette\JeuAllumette\obj\Debug\netcoreapp3.1\JeuAllumette.pdb
+D:\cours\POO C#\Tancrède.de.Bazelaire.JeuAllumette\JeuAllumette\JeuAllumette\obj\Debug\netcoreapp3.1\JeuAllumette.genruntimeconfig.cache
+C:\Users\debaz\Desktop\Tancrède.de.Bazelaire.JeuAllumette\JeuAllumette\JeuAllumette\bin\Debug\netcoreapp3.1\JeuAllumette.exe
+C:\Users\debaz\Desktop\Tancrède.de.Bazelaire.JeuAllumette\JeuAllumette\JeuAllumette\bin\Debug\netcoreapp3.1\JeuAllumette.deps.json
+C:\Users\debaz\Desktop\Tancrède.de.Bazelaire.JeuAllumette\JeuAllumette\JeuAllumette\bin\Debug\netcoreapp3.1\JeuAllumette.runtimeconfig.json
+C:\Users\debaz\Desktop\Tancrède.de.Bazelaire.JeuAllumette\JeuAllumette\JeuAllumette\bin\Debug\netcoreapp3.1\JeuAllumette.runtimeconfig.dev.json
+C:\Users\debaz\Desktop\Tancrède.de.Bazelaire.JeuAllumette\JeuAllumette\JeuAllumette\bin\Debug\netcoreapp3.1\JeuAllumette.dll
+C:\Users\debaz\Desktop\Tancrède.de.Bazelaire.JeuAllumette\JeuAllumette\JeuAllumette\bin\Debug\netcoreapp3.1\JeuAllumette.pdb
+C:\Users\debaz\Desktop\Tancrède.de.Bazelaire.JeuAllumette\JeuAllumette\JeuAllumette\obj\Debug\netcoreapp3.1\JeuAllumette.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\debaz\Desktop\Tancrède.de.Bazelaire.JeuAllumette\JeuAllumette\JeuAllumette\obj\Debug\netcoreapp3.1\JeuAllumette.AssemblyInfoInputs.cache
+C:\Users\debaz\Desktop\Tancrède.de.Bazelaire.JeuAllumette\JeuAllumette\JeuAllumette\obj\Debug\netcoreapp3.1\JeuAllumette.AssemblyInfo.cs
+C:\Users\debaz\Desktop\Tancrède.de.Bazelaire.JeuAllumette\JeuAllumette\JeuAllumette\obj\Debug\netcoreapp3.1\JeuAllumette.csproj.CoreCompileInputs.cache
+C:\Users\debaz\Desktop\Tancrède.de.Bazelaire.JeuAllumette\JeuAllumette\JeuAllumette\obj\Debug\netcoreapp3.1\JeuAllumette.dll
+C:\Users\debaz\Desktop\Tancrède.de.Bazelaire.JeuAllumette\JeuAllumette\JeuAllumette\obj\Debug\netcoreapp3.1\JeuAllumette.pdb
+C:\Users\debaz\Desktop\Tancrède.de.Bazelaire.JeuAllumette\JeuAllumette\JeuAllumette\obj\Debug\netcoreapp3.1\JeuAllumette.genruntimeconfig.cache
